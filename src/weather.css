@@ -1,0 +1,30 @@
+#container{
+    height: 35rem;
+    width: 60%;
+    border: 1px solid red;
+    background-color: lightpink;
+}
+#heading{
+    color: blue;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+#city-input-div{
+    margin-left: 150px;
+}
+input{
+    width: 50%;
+}
+button{
+    margin-left: 25px;
+}
+#weather-div{
+    margin-left: 150px;
+}
+#error-div{
+    background-color: red;
+}
+#error-msg{
+    color: white;
+    margin-left: 200px;
+}
